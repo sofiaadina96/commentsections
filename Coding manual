@@ -1,0 +1,24 @@
+Coding manual 
+1) Select influencer
+   Criteria: has to be an english-speaking body activist. 
+
+2) Select posts
+    Crieteria: Has to be a reel concerning body image conveying a positive message. 
+    Select three posts per influencer: the three most viewed from within the last two months - but newer than 48 hours. 
+
+3) Select comments
+    a) Select the top 25 hate comments. 
+       Hate comment criteria: negative comments regarding the body shown in the reel. 
+    b) Select the top 25 positive/neutral comments (not duplicating the hate comments). 
+       These will not necessarily be representative, but function as a counterpart to the hate comments. 
+
+4) Apply date in excel sheet
+   Write following data about each the comment: 
+   a) Content of comment 
+   b) The sentiment: Positive (p), negative (n) or neutral (x) 
+   c) The users amount of followers 
+   d) The gender of the user: Woman (1), man (-1) or unknown (0) 
+  Link to sheet: https://docs.google.com/spreadsheets/d/13bXWyxCwY5qb3QIuWD-amFKc92-Gmd7Gn4XEo-r04PA/edit?usp=sharing 
+
+
+OBS: Remember to put the links to the posts in the excelsheet - preferably *below* the data. 
